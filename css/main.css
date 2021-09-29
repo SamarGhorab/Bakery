@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.first-section
+{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.nav-link{
+    color: #fff  !important;
+}
+.navbar-brand img{
+    width:50%;
+}
+
+
+
+
+
+.caption
+{
+color: #fff;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+padding-top: 150;
+
+}
+.btn1
+{
+    background-color: #8e7754;
+    padding: 15px 28px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 0 10 0 0 ;
+    color: #fff;
+
+
+}
+.btn2
+{
+    background-color: transparent;
+    padding: 15px 28px;
+    border: 2px solid #fff ;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #fff;
+
+}
+
+
+
+.caption h1
+{
+    margin:20 0 35 0;
+    font-size: 50;
+ 
+
+}
+.caption p
+{
+    color: #fff;
+    font-size: 24px;
+    margin:20px 0 20px 0;
+    
+
+}
+ .caption span
+{
+    font-size: 22px;
+
+    color: #fff;
+
+}
+.setting
+{
+    background-color: #fff;
+    height: 80;
+    width: 35;
+    position: fixed;
+    top:30%;
+    right: 0;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+p{
+    font-weight: 400;
+    color: #686868;
+    padding-top: 20;
+}
+
+
+
+
+
+
+
+
+
+.baking h3{
+    text-align: center;
+    font-size: 30;
+    margin: 100 0 30 0;
+
+}
+.top-p
+{
+    text-align: center;
+    font-size: 15;
+    color: #686868;
+    margin-bottom: 50;
+    
+}
+
+
+
+.menu h4{
+text-align: center;
+color: #303030;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.menu p{
+    color: #686868;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seri;
+    font-size: 17;
+    text-align: center;
+    
+    margin-bottom: 50;
+}
+
+
+
+
+.contact-info h3{
+ 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #303030;
+    margin: 30 0 30 0;
+    
+}
+.summary h6{
+    color: #fff;
+    padding:50 0 20 0;
+}
+.contact-info p ,li{
+    font-size: 17px;
+    color: #686868;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.contact-item img{
+    padding-right: 20;
+}
+.summary{
+    background-color: #403d38;
+}
+ 
+
+.last
+{
+    background-color: #353330;
+}
+
+
+   .last {
+       padding-top: 50;
+       text-align: center;
+       }
+
+
+
+.last p{
+    text-align: center;
+    color:#777;
+    font-size: 15;
+    margin-top: 20;
+}
+
